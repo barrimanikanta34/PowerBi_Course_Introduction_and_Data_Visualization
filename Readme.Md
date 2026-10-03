@@ -15,21 +15,20 @@ Each section contains:
 
 ## 📑 Table of Contents
 
-1. [Clustered Column Chart](images\image08.png)
-2. [Clustered Bar Chart](images\image09.png)
-3. [Line Chart](images\image02.png)
-4. [Area Chart](images\image03.png)
+1. [Clustered Column Chart](https://github.com/barrimanikanta34/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/07.%20Clustered%20Column%20%26%20Bar%20Chart/images/image08.png)
+2. [Clustered Bar Chart](https://github.com/barrimanikanta34/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/07.%20Clustered%20Column%20%26%20Bar%20Chart/images/image09.png)
+3. [Line Chart](https://github.com/barrimanikanta34/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/08.%20Line_%26_Area_Chart/images/image02.png)
+4. [Area Chart](https://github.com/barrimanikanta34/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/08.%20Line_%26_Area_Chart/images/image03.png)
 5. [Ribbon Chart](images\image06.png)
-6. [Line and Stacked Column Chart](images\image09.png)
-7. [Line and Clustered Column Chart](images\image09.png)
+6. [Line and Stacked Column Chart](https://github.com/barrimanikanta34/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/11.%20line%20%26%20stacked%20column%20chart/images/image09.png)
+7. [Line and Clustered Column Chart](https://github.com/barrimanikanta34/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/12.%20Line%20%26%20Clustered%20Column%20Chart/images/image09.png)
 8. [Scatter Plot](Images\image3.png)
-9. [Bubble Map](images\image3.png)
-10. [Table](images\image09.png)
-11. [Matrix](images\image10.png)
-12. [Funnel Chart](images\image09.png)
-13. [Pie Chart](images\image07.png)
-14. [Donut Chart](images\image07.png)
-
+9. [Bubble Map](https://github.com/barrimanikanta34/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/14.%20Bubble%20Map%20Visual/images/image3.png)
+10. [Table](https://github.com/barrimanikanta34/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/15.%20Table%20%26%20Matrix%20Visual/images/image09.png)
+11. [Matrix](https://github.com/barrimanikanta34/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/15.%20Table%20%26%20Matrix%20Visual/images/image10.png)
+12. [Funnel Chart](https://github.com/barrimanikanta34/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/16.%20Funnel%20Chart/images/image09.png)
+13. [Pie Chart](https://github.com/barrimanikanta34/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/06.%20Creating%20a%20Pie%20%26%20Donut%20Chart/images/image07.png)
+14. [Donut Chart](https://github.com/barrimanikanta34/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/06.%20Creating%20a%20Pie%20%26%20Donut%20Chart/images/image07.png)
 
 ---
 
