@@ -73,7 +73,7 @@ After loading the data:
 
 ### Screenshot 1 – Inserting Data
 
-![Importing Data into Power BI](Images\image.png)
+![Importing Data into Power BI](https://github.com/barrimanikanta34/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/04.%20Data%20Visualization/Images/image.png)
 
 ---
 
@@ -111,7 +111,7 @@ The exact field names depend on the dataset being used.
 
 ### Screenshot 2 – Stacked Bar Chart
 
-![Importing Data into Power BI](Images\image02.png)
+![Importing Data into Power BI](https://github.com/barrimanikanta34/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/04.%20Data%20Visualization/Images/image01.png)
 
 ---
 
@@ -141,7 +141,7 @@ Common formatting sections include:
 
 ### Screenshot 3 – Format Visual Pane
 
-![Power BI Format Visual Pane](Images\image03.png)
+![Power BI Format Visual Pane](https://github.com/barrimanikanta34/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/04.%20Data%20Visualization/Images/image03.png)
 
 ---
 
