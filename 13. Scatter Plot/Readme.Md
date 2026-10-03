@@ -1,6 +1,6 @@
 # 📊 Power BI Scatter Plot
 
-![Power BI Scatter Plot](Images\image3.png)
+![Power BI Scatter Plot](https://github.com/barrimanikanta34/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/13.%20Scatter%20Plot/Images/image3.png)
 
 ## 1. Introduction
 

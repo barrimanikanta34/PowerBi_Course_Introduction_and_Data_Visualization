@@ -68,7 +68,7 @@ In this project, the chart compares **Sales** across product **Categories**, sep
 ## 🖼️ Clustered Column Chart Used in This Project
 
 <p align="center">
-  <img src="images\image08.png"
+  <img src="https://github.com/barrimanikanta34/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/07.%20Clustered%20Column%20%26%20Bar%20Chart/images/image08.png"
        alt="Power BI Clustered Column Chart - Sales by Category and Segment"
        width="900">
 </p>
@@ -297,7 +297,7 @@ A horizontal bar chart can be especially useful when category names are long or 
 # 6. 🖼️ Clustered Bar Chart Used in This Project
 
 <p align="center">
-  <img src="images\image09.png"
+  <img src="https://github.com/barrimanikanta34/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/07.%20Clustered%20Column%20%26%20Bar%20Chart/images/image09.png"
        alt="Power BI Clustered Bar Chart - Sales by Category and Segment"
        width="900">
 </p>

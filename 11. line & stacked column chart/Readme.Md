@@ -16,7 +16,7 @@ This combination is useful when two related measures have different scales and n
 # 🖼️ Visualization
 
 <p align="center">
-  <img src="images\image09.png"
+  <img src="https://github.com/barrimanikanta34/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/11.%20line%20%26%20stacked%20column%20chart/images/image09.png"
        alt="Power BI Line and Stacked Column Chart - Sales and Profit by Year and Segment"
        width="1000">
 </p>

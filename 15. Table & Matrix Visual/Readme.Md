@@ -23,7 +23,7 @@ The following table displays:
 - Profit
 - Sales
 
-![Power BI Table Visual](images\image09.png)
+![Power BI Table Visual](https://github.com/barrimanikanta34/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/15.%20Table%20%26%20Matrix%20Visual/images/image09.png)
 
 ---
 
@@ -296,7 +296,7 @@ The following Matrix compares:
 
 across different regions.
 
-![Power BI Matrix Visual](images\image10.png)
+![Power BI Matrix Visual](https://github.com/barrimanikanta34/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/15.%20Table%20%26%20Matrix%20Visual/images/image10.png)
 
 ---
 

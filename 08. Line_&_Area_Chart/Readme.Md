@@ -90,7 +90,7 @@ A line chart helps users see:
 ## 🖼️ Line Chart Used in This Project
 
 <p align="center">
-  <img src="images\image02.png"
+  <img src="https://github.com/barrimanikanta34/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/08.%20Line_%26_Area_Chart/images/image02.png"
        alt="Power BI Line Chart - Profit by Ship Mode"
        width="900">
 </p>
@@ -293,7 +293,7 @@ Area Charts are useful for:
 # 7. 🖼️ Area Chart Used in This Project
 
 <p align="center">
-  <img src="images\image03.png"
+  <img src="https://github.com/barrimanikanta34/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/08.%20Line_%26_Area_Chart/images/image03.png"
        alt="Power BI Area Chart - Quantity by Ship Mode"
        width="900">
 </p>

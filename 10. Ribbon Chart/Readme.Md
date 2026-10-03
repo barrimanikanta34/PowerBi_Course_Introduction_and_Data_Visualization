@@ -21,7 +21,7 @@ This README explains how to create the visual and how to configure the major Pow
 # 🖼️ Visualization Used
 
 <p align="center">
-  <img src="images\image06.png"
+  <img src="https://github.com/barrimanikanta34/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/10.%20Ribbon%20Chart/images/image06.png"
        alt="Power BI Stacked Area Chart - Sales by Ship Mode and Segment"
        width="1000">
 </p>
